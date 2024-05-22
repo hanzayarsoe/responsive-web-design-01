@@ -365,7 +365,7 @@ h3 {
 .fourth-container ul {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .fourth-container span {
